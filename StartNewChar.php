@@ -1,6 +1,6 @@
 <?php
 	session_start();
-	
+	//test
 	$Race[] = "Mechanical_Man","Sky_Person";
 	
 	if ($_POST['CharFormalName'] && $_POST['CharName'] && $_POST['CharFaction']){
